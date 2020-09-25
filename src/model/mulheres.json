@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "Amelia Earhart",
+        "contribuição historica": "A primeira mulher a voar sozinha sobre o Oceano Atlântico",
+        "nascimento": "1897",
+        "morte": "1939"
+    },
+    {
+        "nome": "Joana D'arc",
+        "contribuição historica": "Chefe Militar da Guerra dos 100 Anos na França",
+        "nascimento": "1412",
+        "morte": "1431"
+    },
+    {
+        "nome": "Margaret Thatcher",
+        "contribuição historica": "A primeira mulher a ocupar o cargo de Primeira-Ministra do Reino Unido",
+        "nascimento": "1925",
+        "morte": "2013"
+    },
+    {
+        "nome": "Rosa Parks",
+        "contribuição historica": "Ativista símbolo do movimento dos direitos civis dos negros nos EUA",
+        "nascimento": "1913",
+        "morte": "2005"
+    },
+    {
+        "nome": "Yoani Sánchez",
+        "contribuição historica": "Jornalista cubana. Luta pela liberdade de expressão em Cuba",
+        "nascimento": "1975",
+        "morte": ""
+    },
+    {
+        "nome": "Sofia Ionescu-Ogrezeanu",
+        "contribuição historica": "A primeira neurocirurgiã da história",
+        "nascimento": "1920",
+        "morte": "2008"
+    },
+    {
+        "nome": "Madre Teresa de Calcutá",
+        "contribuição historica": "Fundadora da Congregação das Missionárias da Caridade",
+        "nascimento": "1910",
+        "morte": "1997"
+    },
+    {
+        "nome": "Valentina Tereshkova",
+        "contribuição historica": "A primeira mulher a ir ao espaço",
+        "nascimento": "1937",
+        "morte": ""
+    },
+    {
+        "nome": "Maud Stevens Wagner",
+        "contribuição historica": "A primeira tatuadora profissional",
+        "nascimento": "1897",
+        "morte": "1939"
+    },
+    {
+        "nome": "Anita Garibaldi",
+        "contribuição historica": "Combatente da Revolução Farroupilha e da Unificação da Itália",
+        "nascimento": "1821",
+        "morte": "1849"
+    }
+]
