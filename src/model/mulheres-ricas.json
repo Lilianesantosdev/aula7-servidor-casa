@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Alice Walton",
+        "nacionalidade": "Estados Unidos",
+        "fortuna": "US$ 54,4 bilhões"
+    },
+    {
+        "nome": "Françoise Bettencourt Meyers e família",
+        "nacionalidade": "França",
+        "fortuna": "US$ 48,9 bilhões"
+    },
+    {
+        "nome": "Julia Koch e família",
+        "nacionalidade": "Estados Unidos",
+        "fortuna": "US$ 38,2 bilhões"
+    },
+    {
+        "nome": "Mackenzie Bezos",
+        "nacionalidade": "Estados Unidos",
+        "fortuna": "US$ 36 bilhões"
+    },
+    {
+        "nome": "Jacqueline Mars",
+        "nacionalidade": "Estados Unidos",
+        "fortuna": "US$ 24,7 bilhões"
+    },
+    {
+        "nome": "Yang Huiyan e família",
+        "nacionalidade": "China",
+        "fortuna": "US$ 20,3 bilhões"
+    },
+    {
+        "nome": "Susanne Klatten",
+        "nacionalidade": "Alemanha",
+        "fortuna": "US$ 16,8 bilhões"
+    },
+    {
+        "nome": "Laurene Powell Jobs e família",
+        "nacionalidade": "Estados Unidos",
+        "fortuna": "US$ 16,4 bilhões"
+    },
+    {
+        "nome": "Zhong Huijuan",
+        "nacionalidade": "China",
+        "fortuna": "US$ 14,6 bilhões"
+    },
+    {
+        "nome": "Gina Rinehart",
+        "nacionalidade": "Austrália",
+        "fortuna": "US$ 13,1 bilhões"
+    }
+]

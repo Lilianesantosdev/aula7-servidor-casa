@@ -1,0 +1,24 @@
+{
+  "name": "aula7-servidor-casa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lilianesantosdev/aula7-servidor-casa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lilianesantosdev/aula7-servidor-casa/issues"
+  },
+  "homepage": "https://github.com/Lilianesantosdev/aula7-servidor-casa#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
